@@ -1,5 +1,5 @@
 # Matchmaking
-- Fortnite Mathcming API.
+- Fortnite Reback Matchmaking Replacement.
 
 # Usage
 - Install Node-JS and git.
